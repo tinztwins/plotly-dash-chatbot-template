@@ -1,0 +1,6 @@
+dash==2.11.1
+dash-bootstrap-components==1.4.1
+gunicorn==20.1.0
+python-dotenv==1.0.0
+langchain==0.0.273
+openai==0.27.9
